@@ -1,0 +1,3 @@
+Pessoa: 
+	recusar cadastro de pessoas com idade/altura negativa;
+	recusar cadastro de pessoas com ID repetido;
